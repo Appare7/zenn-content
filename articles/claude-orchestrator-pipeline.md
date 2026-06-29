@@ -6,6 +6,8 @@ topics: ["claudecode", "azure", "自動化", "個人開発"]
 published: false
 ---
 
+![判断はAI・実行はコードに分けた自動化パイプラインの全体像](https://raw.githubusercontent.com/Appare7/zenn-content/main/images/claude-orchestrator-pipeline/cover.png)
+
 ## きっかけ:「全部AIに任せる」は失敗する
 
 個人開発で「コンテンツ生成から公開までを自動化したい」と思ったとき、最初に考えるのは「LLM（大規模言語モデル）に全部やらせる」案です。プロンプトを1つ投げれば文章ができて、画像も生成され、勝手に公開される——理想的に聞こえます。
