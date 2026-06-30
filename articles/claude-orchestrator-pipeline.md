@@ -3,7 +3,7 @@ title: "Claude Codeを司令塔にした自動化パイプラインの作り方"
 emoji: "🪄"
 type: "tech"
 topics: ["claudecode", "ai", "自動化", "個人開発"]
-published: false
+published: true
 ---
 
 ![判断はAI・実行はコードに分けた自動化パイプラインの全体像](https://raw.githubusercontent.com/Appare7/zenn-content/main/images/claude-orchestrator-pipeline/cover.png)
