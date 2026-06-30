@@ -2,7 +2,7 @@
 title: "画像生成AI「Krea 2」公開 ─ 12Bオープンウェイトの実力"
 emoji: "🎨"
 type: "tech"
-topics: ["ai", "生成ai", "画像生成", "machinelearning"]
+topics: ["生成ai", "ai", "画像生成"]
 published: false
 ---
 
