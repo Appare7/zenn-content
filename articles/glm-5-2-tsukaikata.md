@@ -3,7 +3,7 @@ title: "GLM-5.2の使い方｜Claude Codeで料金を1/6にする"
 emoji: "⚡"
 type: "tech"
 topics: ["glm", "claudecode", "ai", "llm", "生成ai"]
-published: false
+published: true
 ---
 
 「Claude、めっちゃ便利。でも毎月の料金がじわじわ効いてくる…」——コーディングにAIを使い倒している人ほど、この悩みにぶつかりますよね。そんな中、2026年6月中旬に中国のZ.ai（Zhipu AI／智譜AI）が公開した **GLM-5.2** が「オープンモデルなのにClaude Opus級のコーディング性能を、数分の一のコストで出せる」と話題になっています。
