@@ -3,7 +3,7 @@ title: "Claude Code 101を日本語で#1 Claude Codeとは何か｜エージェ�
 emoji: "🧭"
 type: "tech"
 topics: ["claudecode", "ai", "aiagent", "anthropic", "llm"]
-published: false
+published: true
 ---
 
 この記事は「Claude Code 101を日本語で」シリーズの第1回です。
