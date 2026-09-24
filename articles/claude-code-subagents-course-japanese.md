@@ -3,7 +3,7 @@ title: "公式コース「Introduction to subagents」を日本語でまとめ�
 emoji: "🧩"
 type: "tech"
 topics: ["claudecode","ai","aiagent","anthropic","subagent"]
-published: false
+published: true
 ---
 
 前回の[Claude Code 101のまとめ](https://zenn.dev/appare/articles/claude-code-101-01-what-is-claude-code)でサブエージェントの節を書きながら、「ここ、もっと深掘りしたいな」と思っていたんですよね。ちょうど専門コースがあったので、続けて受けてきました。Anthropic（アンソロピック／Claudeの開発元）が無料で公開している「Introduction to subagents」です。4レッスン全部テキストで、クイズは無し。1〜2時間で読み切れます。ただ、こちらも英語だけなんですよ。前回と同じく、英語の一次情報を読むのが億劫な人の入口になるように、要点と、自分の手元で実際に起きたことを1本にまとめますね。
