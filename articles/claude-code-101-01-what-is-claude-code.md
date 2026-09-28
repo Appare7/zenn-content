@@ -6,7 +6,7 @@ topics: ["claudecode", "ai", "aiagent", "anthropic", "mcp"]
 published: true
 ---
 
-Anthropic（アンソロピック／Claudeの開発元）が無料で公開している学習コース「Claude Code 101」を、1日で最後まで受講して、修了クイズまで通しました！ただ、このコースは英語だけなんですよね。「英語のコースはちょっと……」という人、けっこう多いんじゃないですか。🚀 そういう人の入口になるように、全12レッスンの要点と、自分の手元で試した結果を1本にまとめますね。
+Anthropic（アンソロピック／Claudeの開発元）が無料で公開している学習コース「Claude Code 101」を、1日で最後まで受講して、修了クイズまで通しました！自分は英語のページで読んだんですが、いまは[公式の日本語版](https://academy.claude.com/ja/courses/claude-code-101)もあります。なのでこの記事は翻訳ではありません。🚀 「受ける前に全体像をつかみたい」「受けたけど手を動かすところで止まった」という人向けに、全12レッスンの要点と、自分の手元で試した結果、そしてコースと実際の製品がズレていた所を1本にまとめますね。
 
 ![](/images/claude-code-101-01-what-is-claude-code/figure01.png)
 *全12レッスンを、仕組み→日常の型→記憶→拡張→やってみた、の順に1ページで*
@@ -21,7 +21,7 @@ Anthropic（アンソロピック／Claudeの開発元）が無料で公開し�
 
 | 項目 | 内容 |
 | --- | --- |
-| コース | [Claude Code 101](https://anthropic.skilljar.com/claude-code-101)（Anthropic Academy） |
+| コース | [Claude Code 101](https://academy.claude.com/ja/courses/claude-code-101)（Claude Academy。日本語版あり） |
 | 料金 | 無料。修了すると証明書が出る |
 | 分量 | 5セクション・12レッスン＋クイズ。ほぼ全部が3〜5分のテキスト |
 | 所要時間 | 読むだけなら1時間弱。手を動かしても1日 |
@@ -502,7 +502,7 @@ exit=0
 
 ✅ 最後はクイズ1本です。全問正解で修了しました！各レッスン末尾の「Recap（まとめ）」がほぼそのまま出題範囲なので、Recapを自分の言葉で言い直せるなら通りますよ。
 
-💡 学び方で効いたのは2つあります。まず **英語を読む前に日本語の要約を先に見る**（初見の概念を英語で読むより、読む速度が体感で3倍違います）。そして **実験は自分のリポジトリでやる**（自分の困りごとが題材だと、出てきた計画が本当に使えるかを自分で判定できるんです）。🚀 サンプルじゃなくて、自分のリポジトリでやってみて。
+💡 学び方で効いたのは2つあります。まず **英語を読む前に日本語で全体像を先に見る**（初見の概念を英語で読むより、読む速度が体感で3倍違います。いまは公式の日本語版があるので、そこから入るのが一番早いです）。そして **実験は自分のリポジトリでやる**（自分の困りごとが題材だと、出てきた計画が本当に使えるかを自分で判定できるんです）。🚀 サンプルじゃなくて、自分のリポジトリでやってみて。
 
 自分は大学院でAIエージェントを研究していて、10月には学生向けに「マルチエージェントでチームを組む」授業を担当します。このコースから持っていくのは3つです！
 
@@ -523,5 +523,5 @@ exit=0
 
 ## 📚 参考
 
-- [Claude Code 101（Anthropic Academy）](https://anthropic.skilljar.com/claude-code-101)
+- [Claude Code 101（Claude Academy・日本語版）](https://academy.claude.com/ja/courses/claude-code-101)
 - [Claude Code Docs](https://code.claude.com/docs/en/overview)：[How Claude Code works](https://code.claude.com/docs/en/how-claude-code-works) / [Memory](https://code.claude.com/docs/en/memory) / [Subagents](https://code.claude.com/docs/en/sub-agents) / [Skills](https://code.claude.com/docs/en/skills) / [MCP](https://code.claude.com/docs/en/mcp) / [Hooks](https://code.claude.com/docs/en/hooks)

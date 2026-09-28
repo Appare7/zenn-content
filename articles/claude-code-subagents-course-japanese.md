@@ -6,7 +6,7 @@ topics: ["claudecode","ai","aiagent","anthropic","subagent"]
 published: true
 ---
 
-前回の[Claude Code 101のまとめ](https://zenn.dev/appare/articles/claude-code-101-01-what-is-claude-code)でサブエージェントの節を書きながら、「ここ、もっと深掘りしたいな」と思っていたんですよね。ちょうど専門コースがあったので、続けて受けてきました！Anthropic（アンソロピック／Claudeの開発元）が無料で公開している「Introduction to subagents」です。4レッスン全部テキストで、クイズは無し。✅ 1〜2時間で読み切れます。ただ、こちらも英語だけなんですよ。前回と同じく、英語の一次情報を読むのが億劫な人の入口になるように、要点と、自分の手元で実際に起きたことを1本にまとめますね。
+前回の[Claude Code 101のまとめ](https://zenn.dev/appare/articles/claude-code-101-01-what-is-claude-code)でサブエージェントの節を書きながら、「ここ、もっと深掘りしたいな」と思っていたんですよね。ちょうど専門コースがあったので、続けて受けてきました！Anthropic（アンソロピック／Claudeの開発元）が無料で公開している「Introduction to subagents」です。4レッスン全部テキストで、クイズは無し。✅ 1〜2時間で読み切れます。[公式の日本語版](https://academy.claude.com/ja/courses/introduction-to-subagents)もあるので、コース本体はそちらでも読めます。この記事は翻訳ではなく、要点と、自分の手元で実際に起きたこと（うまくいった話も、やらかした話も）を1本にまとめたものです。
 
 ![](/images/claude-code-subagents-course-japanese/figure01.png)
 *サブエージェントが効く場面と邪魔になる場面を、コースの4レッスンと手元の実験でまとめます*
@@ -21,7 +21,7 @@ published: true
 
 | 項目 | 内容 |
 | --- | --- |
-| コース | [Introduction to subagents](https://anthropic.skilljar.com/introduction-to-subagents)（Anthropic Academy） |
+| コース | [Introduction to subagents](https://academy.claude.com/ja/courses/introduction-to-subagents)（Claude Academy。日本語版あり） |
 | 料金 | 無料 |
 | 分量 | 4レッスン。全部テキストで、クイズは無し |
 | 所要時間 | 読むだけなら1〜2時間 |
@@ -382,5 +382,5 @@ model: inherit
 
 ## 📚 参考
 
-- [Introduction to subagents（Anthropic Academy）](https://anthropic.skilljar.com/introduction-to-subagents)
+- [Introduction to subagents（Claude Academy・日本語版）](https://academy.claude.com/ja/courses/introduction-to-subagents)
 - [Claude Code Docs: Subagents](https://code.claude.com/docs/en/sub-agents)
